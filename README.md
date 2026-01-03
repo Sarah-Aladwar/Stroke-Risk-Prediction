@@ -110,3 +110,22 @@ This project demonstrates an end-to-end machine learning workflow, from data pre
 - Basmala Ahmed
 - Engy Ahmed
 
+## 📁 Folder Structure
+
+```text
+📂 Stroke-Risk-Prediction/
+├── 📄 README.md
+├── 📂 Analysis/
+│   └── 📓 Stroke Risk Prediction Analysis.ipynb
+├── 📂 App/
+│   └── 🖥️ web_linkcode.ipynb
+├── 📂 Dataset/
+│   └── 📑 Stroke Risk Dataset.csv
+├── 📂 Model/
+│   └── ⚙️ Stroke Model.pkl
+└── 📂 Reports/
+    ├── 📋 Documentation.pdf
+    └── 📓 Possibility of Stroke Presentation.pdf
+
+```
+
