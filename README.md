@@ -116,7 +116,7 @@ This project demonstrates an end-to-end machine learning workflow, from data pre
 📂 Stroke-Risk-Prediction/
 ├── 📄 README.md
 ├── 📂 Analysis/
-│   └── 📓 Stroke Risk Prediction Analysis.ipynb
+│   └── 📉 Stroke Risk Prediction Analysis.ipynb
 ├── 📂 App/
 │   └── 🖥️ web_linkcode.ipynb
 ├── 📂 Dataset/
@@ -128,4 +128,5 @@ This project demonstrates an end-to-end machine learning workflow, from data pre
     └── 📓 Possibility of Stroke Presentation.pdf
 
 ```
+
 
