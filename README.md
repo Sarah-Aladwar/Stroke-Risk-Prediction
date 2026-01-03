@@ -105,7 +105,8 @@ This project demonstrates an end-to-end machine learning workflow, from data pre
 
 ---
 👩‍💻 **Team**
-Sara Ali Mahmoud Ibrahim
-Mariam Gamal Askr
-Basmala Ahmed
-Engy Ahmed
+- Sara Ali Mahmoud Ibrahim
+- Mariam Gamal Askr
+- Basmala Ahmed
+- Engy Ahmed
+
